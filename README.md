@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Jairo, and I'm a Engineer Student from Guatemala City 🌋📌</h2>
+<h2 align="left">Hi 👋! My name is Jairo, and I'm a Engineering Student from Guatemala City 🌋📌</h2>
 
 ###
 
