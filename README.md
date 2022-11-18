@@ -38,7 +38,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working as "Jr. Integration Developer" At Global Trend Solutions<br><br>🌱 I’m currently learning more about Node.js and Next.js<br><br>🌋🇬🇹 Guatemalan Developer<br><br>⚡ I really enjoy Front-end</p>
+<p align="left">🔭 I’m currently working as "Jr. Integration Developer" At Global Trend Solutions<br><br>🌱 I’m currently learning more about Node.js,Next.js and IBM App Connect Enterprise<br><br>🌋🇬🇹 Guatemalan Developer<br><br>⚡ I really enjoy Front-end<br><br>📫 How to reach me jairo.danielgm@gmail.com</p>
 
 ###
 
